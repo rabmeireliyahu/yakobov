@@ -888,5 +888,23 @@
       <itunes:duration>01:11:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>🌧️ Raining Day - Day for Prayers ｜ Rabbi Israel Yakobov</title>
+      <description>🌧️ Raining Day - Day for Prayers ｜ Rabbi Israel Yakobov</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rabbi-israel-yakobov-shiurim/%F0%9F%8C%A7%EF%B8%8F%20Raining%20Day%20-%20Day%20for%20Prayers%20%EF%BD%9C%20Rabbi%20Israel%20Yakobov.mp3" length="9207609" type="audio/mpeg"/>
+      <guid isPermaLink="false">🌧️ Raining Day - Day for Prayers ｜ Rabbi Israel Yakobov.mp3</guid>
+      <pubDate>Mon, 13 Jul 2026 13:37:09 -0000</pubDate>
+      <itunes:duration>00:09:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>🫕 Non Jewish Cooking ｜ Rabbi Israel Yakobov</title>
+      <description>🫕 Non Jewish Cooking ｜ Rabbi Israel Yakobov</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rabbi-israel-yakobov-shiurim/%F0%9F%AB%95%20Non%20Jewish%20Cooking%20%EF%BD%9C%20Rabbi%20Israel%20Yakobov.mp3" length="3823531" type="audio/mpeg"/>
+      <guid isPermaLink="false">🫕 Non Jewish Cooking ｜ Rabbi Israel Yakobov.mp3</guid>
+      <pubDate>Mon, 13 Jul 2026 13:37:43 -0000</pubDate>
+      <itunes:duration>00:03:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
