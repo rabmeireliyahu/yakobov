@@ -2,7 +2,8 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Rabbi Israel Yakobov</title>
-    <description>Rabbi Israel Yakobov delves into the secrets of Kabbalah, Zohar and the Torah to give you insight into yourself and life itself!</description>
+    <description>שיעורי קבלה ופנימיות התורה מפי המקובל הרב ישראל יעקובוב שליט"א. סודות התורה, כוונות ותפילה, אמונה וביטחון, חיזוק יומי ומועדי ישראל - אוצר התורה.</description>
+    <itunes:summary>שיעורי קבלה ופנימיות התורה מפי המקובל הרב ישראל יעקובוב שליט"א. סודות התורה, כוונות ותפילה, אמונה וביטחון, חיזוק יומי ומועדי ישראל - אוצר התורה.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/yakobov</link>
     <language>en</language>
     <itunes:author>Rabbi Israel Yakobov</itunes:author>
