@@ -580,5 +580,14 @@
       <itunes:duration>00:03:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>📚 RESPECTING BOOKS ｜ Rabbi Israel Yakobov</title>
+      <description>📚 RESPECTING BOOKS ｜ Rabbi Israel Yakobov</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rabbi-israel-yakobov-shiurim/%F0%9F%93%9A%20RESPECTING%20BOOKS%20%EF%BD%9C%20Rabbi%20Israel%20Yakobov.mp3" length="9269801" type="audio/mpeg"/>
+      <guid isPermaLink="false">📚 RESPECTING BOOKS ｜ Rabbi Israel Yakobov.mp3</guid>
+      <pubDate>Sun, 02 Aug 2026 20:21:17 -0000</pubDate>
+      <itunes:duration>00:09:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
