@@ -1374,5 +1374,14 @@
       <itunes:duration>00:08:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>BE CAREFUL with THIS ｜ Rabbi Israel Yakobov</title>
+      <description>BE CAREFUL with THIS ｜ Rabbi Israel Yakobov</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rabbi-israel-yakobov-shiurim/BE%20CAREFUL%20with%20THIS%20%EF%BD%9C%20Rabbi%20Israel%20Yakobov.mp3" length="2283693" type="audio/mpeg"/>
+      <guid isPermaLink="false">BE CAREFUL with THIS ｜ Rabbi Israel Yakobov.mp3</guid>
+      <pubDate>Tue, 27 Oct 2026 07:14:21 -0000</pubDate>
+      <itunes:duration>00:03:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
