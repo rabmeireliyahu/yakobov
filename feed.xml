@@ -1401,5 +1401,14 @@
       <itunes:duration>00:33:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>SEGULA for good PARNASA ｜ Rabbi Israel Yakobov</title>
+      <description>SEGULA for good PARNASA ｜ Rabbi Israel Yakobov</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rabbi-israel-yakobov-shiurim/SEGULA%20for%20good%20PARNASA%20%EF%BD%9C%20Rabbi%20Israel%20Yakobov.mp3" length="5726949" type="audio/mpeg"/>
+      <guid isPermaLink="false">SEGULA for good PARNASA ｜ Rabbi Israel Yakobov.mp3</guid>
+      <pubDate>Thu, 29 Oct 2026 10:59:42 -0000</pubDate>
+      <itunes:duration>00:09:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
