@@ -1437,5 +1437,14 @@
       <itunes:duration>01:05:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Whistling on Shabbat ｜ Rabbi Israel Yakobov</title>
+      <description>Whistling on Shabbat ｜ Rabbi Israel Yakobov</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rabbi-israel-yakobov-shiurim/Whistling%20on%20Shabbat%20%EF%BD%9C%20Rabbi%20Israel%20Yakobov.mp3" length="1557549" type="audio/mpeg"/>
+      <guid isPermaLink="false">Whistling on Shabbat ｜ Rabbi Israel Yakobov.mp3</guid>
+      <pubDate>Wed, 04 Nov 2026 13:37:33 -0000</pubDate>
+      <itunes:duration>00:02:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
