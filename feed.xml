@@ -1473,5 +1473,14 @@
       <itunes:duration>00:03:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Can you throw away Holy things？ ｜ Rabbi Israel Yakobov</title>
+      <description>Can you throw away Holy things？ ｜ Rabbi Israel Yakobov</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rabbi-israel-yakobov-shiurim/Can%20you%20throw%20away%20Holy%20things%EF%BC%9F%20%EF%BD%9C%20Rabbi%20Israel%20Yakobov.mp3" length="6353133" type="audio/mpeg"/>
+      <guid isPermaLink="false">Can you throw away Holy things？ ｜ Rabbi Israel Yakobov.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 11:00:15 -0000</pubDate>
+      <itunes:duration>00:10:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
