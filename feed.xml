@@ -1509,5 +1509,14 @@
       <itunes:duration>01:16:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>🌙 BLESSING the MOON ｜ Rabbi Israel Yakobov</title>
+      <description>🌙 BLESSING the MOON ｜ Rabbi Israel Yakobov</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rabbi-israel-yakobov-shiurim/%F0%9F%8C%99%20BLESSING%20the%20MOON%20%EF%BD%9C%20Rabbi%20Israel%20Yakobov.mp3" length="2550669" type="audio/mpeg"/>
+      <guid isPermaLink="false">🌙 BLESSING the MOON ｜ Rabbi Israel Yakobov.mp3</guid>
+      <pubDate>Thu, 12 Nov 2026 18:22:45 -0000</pubDate>
+      <itunes:duration>00:04:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
