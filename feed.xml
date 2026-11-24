@@ -1554,5 +1554,14 @@
       <itunes:duration>00:10:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>GIVE IN THEIR MERIT ｜ Rabbi Israel Yakobov</title>
+      <description>GIVE IN THEIR MERIT ｜ Rabbi Israel Yakobov</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rabbi-israel-yakobov-shiurim/GIVE%20IN%20THEIR%20MERIT%20%EF%BD%9C%20Rabbi%20Israel%20Yakobov.mp3" length="8419351" type="audio/mpeg"/>
+      <guid isPermaLink="false">GIVE IN THEIR MERIT ｜ Rabbi Israel Yakobov.mp3</guid>
+      <pubDate>Tue, 24 Nov 2026 04:30:17 -0000</pubDate>
+      <itunes:duration>00:13:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
